@@ -69,7 +69,7 @@ python-dateutil==2.7.3
 pytz==2018.4
 PyYAML==3.13
 pyzmq==17.1.2
-requests==2.19.1
+requests>=2.20.1
 scipy==1.1.0
 seaborn==0.9.0
 Send2Trash==1.5.0
