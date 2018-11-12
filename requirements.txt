@@ -53,7 +53,7 @@ ptyprocess==0.6.0
 pycparser==2.19
 Pygments==2.2.0
 pylint==2.1.1
--e git+https://github.com/springcoil/pymc3.git@ea5ecf3608a6b35c484930ea002d1ef20fc49952#egg=pymc3
+pymc3
 pyOpenSSL==18.0.0
 pyparsing==2.2.2
 PySocks==1.6.8
